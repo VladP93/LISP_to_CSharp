@@ -1,0 +1,7 @@
+(
+(leer a)
+(leer b)
+(leer c)
+
+(asignar m (/ (+ a (+ a c)) 3))
+)

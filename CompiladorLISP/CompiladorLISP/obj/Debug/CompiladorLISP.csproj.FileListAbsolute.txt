@@ -1,0 +1,29 @@
+C:\Users\vladi\source\repos\CompiladorLISP\CompiladorLISP\bin\Debug\CompiladorLISP.exe.config
+C:\Users\vladi\source\repos\CompiladorLISP\CompiladorLISP\bin\Debug\CompiladorLISP.exe
+C:\Users\vladi\source\repos\CompiladorLISP\CompiladorLISP\bin\Debug\CompiladorLISP.pdb
+C:\Users\vladi\source\repos\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.csprojResolveAssemblyReference.cache
+C:\Users\vladi\source\repos\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.Form1.resources
+C:\Users\vladi\source\repos\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.Properties.Resources.resources
+C:\Users\vladi\source\repos\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.csproj.GenerateResource.Cache
+C:\Users\vladi\source\repos\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.exe
+C:\Users\vladi\source\repos\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.pdb
+C:\Users\Juan Ramos\Documents\Visual Studio 2015\Projects\CompiladorLISP\CompiladorLISP\bin\Debug\CompiladorLISP.exe.config
+C:\Users\Juan Ramos\Documents\Visual Studio 2015\Projects\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.exe
+C:\Users\Juan Ramos\Documents\Visual Studio 2015\Projects\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.pdb
+C:\Users\Juan Ramos\Documents\Visual Studio 2015\Projects\CompiladorLISP\CompiladorLISP\bin\Debug\CompiladorLISP.exe
+C:\Users\Juan Ramos\Documents\Visual Studio 2015\Projects\CompiladorLISP\CompiladorLISP\bin\Debug\CompiladorLISP.pdb
+C:\Users\Juan Ramos\Documents\Visual Studio 2015\Projects\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.csprojResolveAssemblyReference.cache
+C:\Users\Juan Ramos\Documents\Visual Studio 2015\Projects\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.Form1.resources
+C:\Users\Juan Ramos\Documents\Visual Studio 2015\Projects\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.Properties.Resources.resources
+C:\Users\Juan Ramos\Documents\Visual Studio 2015\Projects\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.csproj.GenerateResource.Cache
+C:\Users\vladi\Downloads\CompiladorLISP\CompiladorLISP\CompiladorLISP\bin\Debug\CompiladorLISP.exe.config
+C:\Users\vladi\Downloads\CompiladorLISP\CompiladorLISP\CompiladorLISP\bin\Debug\CompiladorLISP.exe
+C:\Users\vladi\Downloads\CompiladorLISP\CompiladorLISP\CompiladorLISP\bin\Debug\CompiladorLISP.pdb
+C:\Users\vladi\Downloads\CompiladorLISP\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.csprojResolveAssemblyReference.cache
+C:\Users\vladi\Downloads\CompiladorLISP\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.Properties.Resources.resources
+C:\Users\vladi\Downloads\CompiladorLISP\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.csproj.GenerateResource.Cache
+C:\Users\vladi\Downloads\CompiladorLISP\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Downloads\CompiladorLISP\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.exe
+C:\Users\vladi\Downloads\CompiladorLISP\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.pdb
+C:\Users\vladi\Downloads\CompiladorLISP\CompiladorLISP\CompiladorLISP\obj\Debug\CompiladorLISP.frmPrincipal.resources
